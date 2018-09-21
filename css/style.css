@@ -1,0 +1,31 @@
+body { 
+	background-color:grey;
+}
+ul { 
+    color : red; 
+    font-family : arial; 
+    font-weight : bold;
+}
+table{ 
+	color : black; 
+	font-family : arial;
+}
+h1 { 
+	color : blue; 
+	font-family : arial; 
+	text-align:center;
+}
+p {
+	line-height : 150%; 
+}
+ol {
+	font-style:italic
+}
+#mainbody{ 
+	background-color: white;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding: 50px;
+
+
+}

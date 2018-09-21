@@ -1,0 +1,266 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightgray;
+}
+h1,
+h2,
+h4,
+h3{
+	text-align: center;
+	font-family : arial;
+}
+p{
+	padding: 15px;
+}
+#firsthalf{
+	background-color: white;
+	margin-top: 0px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
+#secondhalf{
+	background-color: white;
+	width: 800px;
+	height: 1100px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
+#thirdhalf{
+	background-color: white;
+	width: 800px;
+	height: 980px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
+
+#forthhalf{
+	background-color: white;
+	width: 800px;
+	height: 980px;
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 10px;
+}
+h1{
+	padding-top: 35px;
+}
+span{
+	color: white;
+	background-color: black;
+	padding-left: 5px;
+	padding-right: 5px; 
+}
+#secondside1{
+	position: absolute;
+	width: 500px;
+	top: 1065px;
+	left: 990px;
+}
+#secondsidetext{
+	position: absolute;
+	width: 490px;
+	top: 1330px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#secondsidetext2{
+	position: absolute;
+	width: 490px;
+	top: 1470px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#secondsidepost1{
+	position: absolute;
+	width: 470px;
+	height: 50px;
+	top: 1510px;
+	left: 990px;
+	background-color: white;
+	padding :15px;
+}
+#smoke1{
+	max-height: 50px;
+	max-width: 50px;
+}
+#secondsidepost2{
+	position: absolute;
+	width: 470px;
+	height: 50px;
+	top: 1591px;
+	left: 990px;
+	background-color: white;
+	padding :15px;
+}
+#band{
+	max-height: 50px;
+	max-width: 50px;
+}
+#secondsidepost3{
+	position: absolute;
+	width: 470px;
+	height: 50px;
+	top: 1672px;
+	left: 990px;
+	background-color: white;
+	padding :15px;
+}
+#work{
+	max-height: 50px;
+	max-width: 50px;
+}
+#secondsidepost4{
+	position: absolute;
+	width: 470px;
+	height: 50px;
+	top: 1752px;
+	left: 990px;
+	background-color: white;
+	padding :15px;
+}
+#secondsidetext3{
+	position: absolute;
+	width: 490px;
+	top: 1860px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#secondsidepost5{
+	position: absolute;
+	background-color: lightgray;
+	width: 441px;
+	height: 160px;
+    top: 1900px;
+    left: 990px;
+    text-align: center;
+    padding: 15px;
+    border-color: white;
+    border-width: 15px;
+    border-style: solid;
+}
+#thirdsidetext1{
+	position: absolute;
+	width: 485px;
+	height: 100px;
+	top: 2165px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+}
+#thirdsidetext2{
+	position: absolute;
+	width: 485px;
+	height: 100px;
+	top: 2205px;
+	left: 990px;
+	background-color: white;
+	padding: 10px;
+}
+#thirdsidetext3{
+	position: absolute;
+	width: 485px;
+	top: 2350px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+}
+#thirdsidetext4{
+	position: absolute;
+	width: 465px;
+	height: 320px;
+	top: 2390px;
+	left: 990px;
+	background-color: white;
+	padding: 20px;
+}
+#pix{
+	padding: 10px;
+}
+#thirdsidetext5{
+	position: absolute;
+	width: 485px;
+	top: 2790px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+}
+#thirdsidetext6{
+    position: absolute;
+	width: 465px;
+	top: 2830px;
+	left: 990px;
+	color: black;
+	background-color: white;
+	padding: 20px;
+}
+#thirdsidetext7{
+	position: absolute;
+	width: 485px;
+	top: 2930px;
+	left: 990px;
+	color: white;
+	background-color: black;
+	padding: 10px;
+}
+#thirdsidetext8{
+	position: absolute;
+	width: 465px;
+	top: 2971px;
+	left: 990px;
+	color: black;
+	background-color: white;
+	padding: 20px;
+}
+input[type=submit]{
+     color: red;
+}
+#textonfirsthalf{
+	position: absolute;
+	width: 1000px;
+	margin-left: 0px;
+	margin-top: 0px;
+	color: white;
+	font-size: 35px;
+	top: 500px;
+	left: 0px;
+}
+h5{
+	text-align: left;
+	position: 	absolute;	
+	left: 235px;
+	font-size: 	35px; 	
+}
+.button{
+	position: absolute;
+	left: 235px;
+	top: 630px;
+	border :1px solid white;
+	padding: 10px 30px;
+	text-orientation: none;
+	margin-right: 5px;
+	font-style: 13px;
+	text-transform: uppercase;
+	background-color: lightgray;
+    color: black;
+}
